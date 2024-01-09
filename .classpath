@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/JTextFieldRound.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="lib" path="dist/lib/postgresql-42.3.3.jar"/>
+	<classpathentry kind="lib" path="dist/projectPasswords.jar"/>
+	<classpathentry kind="lib" path="lib/absolutelayout/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="lib/junit_5/junit-jupiter-api-5.6.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/junit_5/junit-jupiter-api-5.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/junit_5/junit-jupiter-api-5.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit_5/junit-jupiter-engine-5.6.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/junit_5/junit-jupiter-engine-5.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/junit_5/junit-jupiter-engine-5.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit_5/junit-jupiter-params-5.6.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/junit_5/junit-jupiter-params-5.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/junit_5/junit-jupiter-params-5.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/testng/jcommander-1.78.jar"/>
+	<classpathentry kind="lib" path="lib/testng/testng-6.13.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/testng/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="MEPASS/MEPASS.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
